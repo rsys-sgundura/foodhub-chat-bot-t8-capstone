@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchainhub==0.1.20
+langchain-experimental==0.0.62
+langchain_huggingface
+langchain-groq
+langchain-community
+numpy==1.26
+huggingface_hub==0.32.6

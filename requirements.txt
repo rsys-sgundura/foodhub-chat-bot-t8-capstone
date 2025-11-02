@@ -1,0 +1,10 @@
+huggingface_hub==0.32.6
+streamlit>=1.35.0  # Use a recent version of Streamlit
+langchain>=0.2.0   # Update core package to the modern namespace
+langchain-groq>=0.1.3
+langchain-experimental>=0.0.62
+langchain-community>=0.0.38
+langchain-core>=0.1.52
+groq>=0.4.2
+sqlalchemy==2.0.25
+pydantic==2.6.1
